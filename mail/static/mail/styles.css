@@ -1,0 +1,17 @@
+.mail-link {
+	border:1px solid gray;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.mail-time, .archive {
+	float: right;
+}
+
+.mail-pointer {
+	cursor: pointer;
+}
+
+.reply {
+	margin-right:20px;
+}
